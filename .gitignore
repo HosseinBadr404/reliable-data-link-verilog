@@ -1,0 +1,16 @@
+_xmsgs/
+isim/
+iseconfig/
+xst/
+*.exe
+*.wdb
+*.lso
+*.prj
+*.stx
+*.xst
+*.xmsgs
+*.log
+*.cmd
+*.html
+*.vcd
+.DS_Store
